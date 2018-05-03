@@ -1,0 +1,32 @@
+coin_marketcap,coin_name,coin_position,coin_price,coin_supply,coin_volume,year
+"$1,477,901,418","BTC
+Bitcoin",1,$131.96,"11,199,394",Low Vol,2013
+"$56,618,930","LTC
+Litecoin",2,$3.15,"17,971,825",Low Vol,2013
+"$5,306,810","NMC
+Namecoin",3,$0.941349,"5,637,450",Low Vol,2013
+"$3,950,966","PPC
+Peercoin",4,$0.207422,"19,047,961",Low Vol,2013
+"$1,198,172","NVC
+Novacoin",5,$4.22,"284,187",Low Vol,2013
+"$919,126","TRC
+Terracoin",6,$0.342083,"2,686,848",Low Vol,2013
+"$900,369","DVC
+Devcoin",7,$0.000198,"4,538,778,116",Low Vol,2013
+"$669,208","FRC
+Freicoin",8,$0.031865,"21,001,455",Low Vol,2013
+"$658,825","FTC
+Feathercoin",9,$0.099509,"6,620,750",Low Vol,2013
+"$367,573","CNC
+CHNCoin",10,$0.071988,"5,106,021",Low Vol,2013
+"$124,477","IXC
+Ixcoin",11,$0.009837,"12,653,618
+*",Low Vol,2013
+"$123,252","MNC
+Mincoin",12,$0.115277,"1,069,181",Low Vol,2013
+"$120,694","BQC
+BBQCoin",13,$0.006785,"17,788,853",Low Vol,2013
+"$63,470","WDC
+WorldCoin",14,$0.027640,"2,296,283",Low Vol,2013
+"$58,763","BTB
+BitBar",15,$18.92,"3,106",Low Vol,2013
